@@ -31,3 +31,10 @@ A simple desktop social media app which made by Java Swing and OPP concept
 1.Download the "MiniSocialMediaApp.java" file.
 2.write in terminal `javac MiniSocialMediaApp.java`
 3.run `java basicjava.minisocialmediaapp.MiniSocialMediaApp`
+
+
+
+
+# Acknowledgments
+* Built with the assistance of **Google Gemini AI and Chatgpt* for code optimization and logic building.
+* Special thanks to the open-source community for **Java Swing** tutorials and documentation.
