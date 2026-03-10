@@ -17,7 +17,12 @@ A simple desktop social media app which made by Java Swing and OPP concept
 .Storage : File I/O(.dat files)
 
 
-# Secreenshots for App preview
+# Screenshots for App preview
+![App Preview](./app_preview_ss/Screenshot%202026-03-10%20140630.png)
+![App Preview](./app_preview_ss/Screenshot%202026-03-10%20140653.png)
+![App Preview](./app_preview_ss/Screenshot%202026-03-10%20140702.png)
+![App Preview](./app_preview_ss/Screenshot%202026-03-10%20140708.png)
+![App Preview](./app_preview_ss/Screenshot%202026-03-10%20140717.png)
 
 
 
