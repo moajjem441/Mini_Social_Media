@@ -1,0 +1,15 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Binary data files (আপনার অ্যাপের সেভ করা ডাটা)
+*.dat
+
+# IDE specific files (Optional)
+.project
+.classpath
+.settings/
+.idea/
+*.iml
